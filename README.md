@@ -5,3 +5,4 @@
 ![](gif/james.gif)
 ![](gif/katie.gif)
 ![](gif/armin.gif)
+![](gif/chris.gif)
