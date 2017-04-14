@@ -1,0 +1,7 @@
+![](gif/david.gif)
+![](gif/eric.gif)
+![](gif/matt.gif)
+![](gif/ted.gif)
+![](gif/james.gif)
+![](gif/katie.gif)
+![](gif/armin.gif)
